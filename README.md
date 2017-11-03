@@ -13,7 +13,7 @@ Joseph Ng
 Used JavaScript to create a photo gallery.
 
 ### View Project:
-https://josephng123.github.io/-lesson6_javascript3/
+https://josephng123.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. Learned how to create a gallery of images within a javascript file.
